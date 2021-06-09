@@ -1,8 +1,7 @@
-aiofiles==0.4.0
-aiohttp==3.7.4
-asyncio==3.4.3
+
+
 numpy
-starlette==0.12.0
+Gevent
 uvicorn==0.11.7
 python-multipart==0.0.5
 flask
