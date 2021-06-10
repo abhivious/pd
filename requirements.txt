@@ -4,6 +4,6 @@ Gevent
 flask
 keras
 gunicorn
-
+tensorflow==1.14.0
 h5py==3.1.0
 
